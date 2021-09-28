@@ -1,0 +1,55 @@
+
+body
+{
+	background: #121212;
+	font-family: georgia,sans-serif;
+	color:rgb(187, 170, 170);
+	margin:0;
+	padding:0;
+}
+
+.main 
+{
+	padding-top: 80px;
+	
+}
+
+.flexshot
+{
+	display:flex;
+	flex-wrap: wrap;
+	width: 1000px;
+}
+
+.shot 
+{
+	flex: 0 0 160px;	
+}
+
+.form1 {
+	width: 1000px;
+ }
+
+.form2 {
+	width: 200px;
+ } 
+
+ .form3 {
+	width: 400px;
+ } 
+
+ dialog {
+	width: auto;
+	border-radius: 20px;
+	background: #f3f3ee;
+	border: solid 2px;
+	border-color: #FF0000;
+ }
+
+.plus 
+{
+position: fixed;
+bottom: 5%;
+right: 5%;
+
+}
